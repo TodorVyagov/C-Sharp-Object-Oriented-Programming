@@ -1,0 +1,6 @@
+D:\Todor\Telerik Software Academy\C# OOP\6.CommonTypeSystem\6.CommonTypeSystem\04.Person\bin\Debug\04.Person.exe.config
+D:\Todor\Telerik Software Academy\C# OOP\6.CommonTypeSystem\6.CommonTypeSystem\04.Person\bin\Debug\04.Person.exe
+D:\Todor\Telerik Software Academy\C# OOP\6.CommonTypeSystem\6.CommonTypeSystem\04.Person\bin\Debug\04.Person.pdb
+D:\Todor\Telerik Software Academy\C# OOP\6.CommonTypeSystem\6.CommonTypeSystem\04.Person\obj\Debug\04.Person.csprojResolveAssemblyReference.cache
+D:\Todor\Telerik Software Academy\C# OOP\6.CommonTypeSystem\6.CommonTypeSystem\04.Person\obj\Debug\04.Person.exe
+D:\Todor\Telerik Software Academy\C# OOP\6.CommonTypeSystem\6.CommonTypeSystem\04.Person\obj\Debug\04.Person.pdb

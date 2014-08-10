@@ -1,0 +1,6 @@
+D:\Todor\Telerik Software Academy\C# OOP\2.DefiningClassesPart2\2.DefiningClassesPartTwo\08.MatrixOperations\bin\Debug\08.MatrixOperations.exe.config
+D:\Todor\Telerik Software Academy\C# OOP\2.DefiningClassesPart2\2.DefiningClassesPartTwo\08.MatrixOperations\obj\Debug\08.MatrixOperations.exe
+D:\Todor\Telerik Software Academy\C# OOP\2.DefiningClassesPart2\2.DefiningClassesPartTwo\08.MatrixOperations\obj\Debug\08.MatrixOperations.pdb
+D:\Todor\Telerik Software Academy\C# OOP\2.DefiningClassesPart2\2.DefiningClassesPartTwo\08.MatrixOperations\bin\Debug\08.MatrixOperations.exe
+D:\Todor\Telerik Software Academy\C# OOP\2.DefiningClassesPart2\2.DefiningClassesPartTwo\08.MatrixOperations\bin\Debug\08.MatrixOperations.pdb
+D:\Todor\Telerik Software Academy\C# OOP\2.DefiningClassesPart2\2.DefiningClassesPartTwo\08.MatrixOperations\obj\Debug\08-10.MatrixOperations.csprojResolveAssemblyReference.cache

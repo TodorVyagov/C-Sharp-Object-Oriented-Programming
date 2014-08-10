@@ -1,0 +1,6 @@
+D:\Todor\Telerik Software Academy\C# OOP\2.DefiningClassesPart2\2.DefiningClassesPartTwo\11.Attribute\bin\Debug\11.Attribute.exe.config
+D:\Todor\Telerik Software Academy\C# OOP\2.DefiningClassesPart2\2.DefiningClassesPartTwo\11.Attribute\bin\Debug\11.Attribute.exe
+D:\Todor\Telerik Software Academy\C# OOP\2.DefiningClassesPart2\2.DefiningClassesPartTwo\11.Attribute\bin\Debug\11.Attribute.pdb
+D:\Todor\Telerik Software Academy\C# OOP\2.DefiningClassesPart2\2.DefiningClassesPartTwo\11.Attribute\obj\Debug\11.Attribute.csprojResolveAssemblyReference.cache
+D:\Todor\Telerik Software Academy\C# OOP\2.DefiningClassesPart2\2.DefiningClassesPartTwo\11.Attribute\obj\Debug\11.Attribute.exe
+D:\Todor\Telerik Software Academy\C# OOP\2.DefiningClassesPart2\2.DefiningClassesPartTwo\11.Attribute\obj\Debug\11.Attribute.pdb

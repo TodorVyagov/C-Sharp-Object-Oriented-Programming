@@ -1,0 +1,6 @@
+D:\Todor\Telerik Software Academy\C# OOP\8.BGCoderExams\12.12.13.1.WarMachines\WarMachines-Skeleton\WarMachines\bin\Debug\WarMachines.exe.config
+D:\Todor\Telerik Software Academy\C# OOP\8.BGCoderExams\12.12.13.1.WarMachines\WarMachines-Skeleton\WarMachines\obj\Debug\12.12.13.01WarMachines.csprojResolveAssemblyReference.cache
+D:\Todor\Telerik Software Academy\C# OOP\8.BGCoderExams\12.12.13.1.WarMachines\WarMachines-Skeleton\WarMachines\bin\Debug\WarMachines.exe
+D:\Todor\Telerik Software Academy\C# OOP\8.BGCoderExams\12.12.13.1.WarMachines\WarMachines-Skeleton\WarMachines\bin\Debug\WarMachines.pdb
+D:\Todor\Telerik Software Academy\C# OOP\8.BGCoderExams\12.12.13.1.WarMachines\WarMachines-Skeleton\WarMachines\obj\Debug\WarMachines.exe
+D:\Todor\Telerik Software Academy\C# OOP\8.BGCoderExams\12.12.13.1.WarMachines\WarMachines-Skeleton\WarMachines\obj\Debug\WarMachines.pdb

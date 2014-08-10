@@ -1,0 +1,6 @@
+D:\Todor\Telerik Software Academy\C# OOP\8.BGCoderExams\12.12.13.2.TradeAndTravel\TradeAndTravel-Skeleton\TradeAndTravel\bin\Debug\TradeAndTravel.exe.config
+D:\Todor\Telerik Software Academy\C# OOP\8.BGCoderExams\12.12.13.2.TradeAndTravel\TradeAndTravel-Skeleton\TradeAndTravel\bin\Debug\TradeAndTravel.exe
+D:\Todor\Telerik Software Academy\C# OOP\8.BGCoderExams\12.12.13.2.TradeAndTravel\TradeAndTravel-Skeleton\TradeAndTravel\bin\Debug\TradeAndTravel.pdb
+D:\Todor\Telerik Software Academy\C# OOP\8.BGCoderExams\12.12.13.2.TradeAndTravel\TradeAndTravel-Skeleton\TradeAndTravel\obj\Debug\TradeAndTravel.csprojResolveAssemblyReference.cache
+D:\Todor\Telerik Software Academy\C# OOP\8.BGCoderExams\12.12.13.2.TradeAndTravel\TradeAndTravel-Skeleton\TradeAndTravel\obj\Debug\TradeAndTravel.exe
+D:\Todor\Telerik Software Academy\C# OOP\8.BGCoderExams\12.12.13.2.TradeAndTravel\TradeAndTravel-Skeleton\TradeAndTravel\obj\Debug\TradeAndTravel.pdb

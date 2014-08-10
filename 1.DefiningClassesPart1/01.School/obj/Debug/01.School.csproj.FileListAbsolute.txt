@@ -1,0 +1,15 @@
+D:\Todor\Telerik Software Academy\C# OOP\4.OOPPrinciplesPart1\4.OOPPrinciplesPart1\01.School\bin\Debug\01.School.exe.config
+D:\Todor\Telerik Software Academy\C# OOP\4.OOPPrinciplesPart1\4.OOPPrinciplesPart1\01.School\obj\Debug\01.School.csprojResolveAssemblyReference.cache
+D:\Todor\Telerik Software Academy\C# OOP\4.OOPPrinciplesPart1\4.OOPPrinciplesPart1\01.School\bin\Debug\01.School.exe
+D:\Todor\Telerik Software Academy\C# OOP\4.OOPPrinciplesPart1\4.OOPPrinciplesPart1\01.School\bin\Debug\01.School.pdb
+D:\Todor\Telerik Software Academy\C# OOP\4.OOPPrinciplesPart1\4.OOPPrinciplesPart1\01.School\obj\Debug\01.School.exe
+D:\Todor\Telerik Software Academy\C# OOP\4.OOPPrinciplesPart1\4.OOPPrinciplesPart1\01.School\obj\Debug\01.School.pdb
+C:\Users\student\Desktop\Todor\01.School\bin\Debug\01.School.exe.config
+C:\Users\student\Desktop\Todor\01.School\obj\Debug\01.School.exe
+C:\Users\student\Desktop\Todor\01.School\obj\Debug\01.School.pdb
+C:\Users\student\Desktop\Todor\01.School\bin\Debug\01.School.exe
+C:\Users\student\Desktop\Todor\01.School\bin\Debug\01.School.pdb
+C:\Users\student\Desktop\Todor\01.School\obj\Debug\01.School.csprojResolveAssemblyReference.cache
+D:\Todor\Telerik Software Academy\C# OOP\1.DefiningClassesPart1\01.School\bin\Debug\01.School.exe.config
+D:\Todor\Telerik Software Academy\C# OOP\1.DefiningClassesPart1\01.School\obj\Debug\01.School.exe
+D:\Todor\Telerik Software Academy\C# OOP\1.DefiningClassesPart1\01.School\obj\Debug\01.School.pdb

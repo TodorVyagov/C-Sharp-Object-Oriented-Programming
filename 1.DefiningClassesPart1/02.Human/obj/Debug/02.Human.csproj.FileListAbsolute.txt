@@ -1,0 +1,15 @@
+D:\Todor\Telerik Software Academy\C# OOP\4.OOPPrinciplesPart1\4.OOPPrinciplesPart1\02.Human\bin\Debug\02.Human.exe.config
+D:\Todor\Telerik Software Academy\C# OOP\4.OOPPrinciplesPart1\4.OOPPrinciplesPart1\02.Human\obj\Debug\02.Human.csprojResolveAssemblyReference.cache
+D:\Todor\Telerik Software Academy\C# OOP\4.OOPPrinciplesPart1\4.OOPPrinciplesPart1\02.Human\bin\Debug\02.Human.exe
+D:\Todor\Telerik Software Academy\C# OOP\4.OOPPrinciplesPart1\4.OOPPrinciplesPart1\02.Human\bin\Debug\02.Human.pdb
+D:\Todor\Telerik Software Academy\C# OOP\4.OOPPrinciplesPart1\4.OOPPrinciplesPart1\02.Human\obj\Debug\02.Human.exe
+D:\Todor\Telerik Software Academy\C# OOP\4.OOPPrinciplesPart1\4.OOPPrinciplesPart1\02.Human\obj\Debug\02.Human.pdb
+C:\Users\student\Desktop\Todor\02.Human\bin\Debug\02.Human.exe.config
+C:\Users\student\Desktop\Todor\02.Human\obj\Debug\02.Human.exe
+C:\Users\student\Desktop\Todor\02.Human\obj\Debug\02.Human.pdb
+C:\Users\student\Desktop\Todor\02.Human\bin\Debug\02.Human.exe
+C:\Users\student\Desktop\Todor\02.Human\bin\Debug\02.Human.pdb
+C:\Users\student\Desktop\Todor\02.Human\obj\Debug\02.Human.csprojResolveAssemblyReference.cache
+D:\Todor\Telerik Software Academy\C# OOP\1.DefiningClassesPart1\02.Human\bin\Debug\02.Human.exe.config
+D:\Todor\Telerik Software Academy\C# OOP\1.DefiningClassesPart1\02.Human\obj\Debug\02.Human.exe
+D:\Todor\Telerik Software Academy\C# OOP\1.DefiningClassesPart1\02.Human\obj\Debug\02.Human.pdb

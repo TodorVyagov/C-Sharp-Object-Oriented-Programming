@@ -1,0 +1,12 @@
+C:\Users\student\Desktop\Todor\DefiningClassesPartOne\000.Test\bin\Debug\000.Test.exe.config
+C:\Users\student\Desktop\Todor\DefiningClassesPartOne\000.Test\bin\Debug\000.Test.exe
+C:\Users\student\Desktop\Todor\DefiningClassesPartOne\000.Test\bin\Debug\000.Test.pdb
+C:\Users\student\Desktop\Todor\DefiningClassesPartOne\000.Test\obj\Debug\000.Test.exe
+C:\Users\student\Desktop\Todor\DefiningClassesPartOne\000.Test\obj\Debug\000.Test.pdb
+C:\Users\student\Desktop\Todor\DefiningClassesPartOne\000.Test\obj\Debug\000.Test.csprojResolveAssemblyReference.cache
+D:\Todor\Telerik Software Academy\C# OOP\1.DefiningClassesPart1\DefiningClassesPartOne\000.Test\bin\Debug\000.Test.exe.config
+D:\Todor\Telerik Software Academy\C# OOP\1.DefiningClassesPart1\DefiningClassesPartOne\000.Test\obj\Debug\000.Test.exe
+D:\Todor\Telerik Software Academy\C# OOP\1.DefiningClassesPart1\DefiningClassesPartOne\000.Test\obj\Debug\000.Test.pdb
+D:\Todor\Telerik Software Academy\C# OOP\1.DefiningClassesPart1\DefiningClassesPartOne\000.Test\bin\Debug\000.Test.exe
+D:\Todor\Telerik Software Academy\C# OOP\1.DefiningClassesPart1\DefiningClassesPartOne\000.Test\bin\Debug\000.Test.pdb
+D:\Todor\Telerik Software Academy\C# OOP\1.DefiningClassesPart1\DefiningClassesPartOne\000.Test\obj\Debug\000.Test.csprojResolveAssemblyReference.cache

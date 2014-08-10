@@ -1,0 +1,12 @@
+C:\Users\student\Desktop\Todor\DefiningClassesPartOne\01.DefineClassMobilePhone\bin\Debug\01.DefineClassMobilePhone.exe.config
+C:\Users\student\Desktop\Todor\DefiningClassesPartOne\01.DefineClassMobilePhone\bin\Debug\01.DefineClassMobilePhone.exe
+C:\Users\student\Desktop\Todor\DefiningClassesPartOne\01.DefineClassMobilePhone\bin\Debug\01.DefineClassMobilePhone.pdb
+C:\Users\student\Desktop\Todor\DefiningClassesPartOne\01.DefineClassMobilePhone\obj\Debug\01.DefineClassMobilePhone.csprojResolveAssemblyReference.cache
+C:\Users\student\Desktop\Todor\DefiningClassesPartOne\01.DefineClassMobilePhone\obj\Debug\01.DefineClassMobilePhone.exe
+C:\Users\student\Desktop\Todor\DefiningClassesPartOne\01.DefineClassMobilePhone\obj\Debug\01.DefineClassMobilePhone.pdb
+D:\Todor\Telerik Software Academy\C# OOP\1.DefiningClassesPart1\DefiningClassesPartOne\01.DefineClassMobilePhone\bin\Debug\01.DefineClassMobilePhone.exe.config
+D:\Todor\Telerik Software Academy\C# OOP\1.DefiningClassesPart1\DefiningClassesPartOne\01.DefineClassMobilePhone\obj\Debug\01.DefineClassMobilePhone.exe
+D:\Todor\Telerik Software Academy\C# OOP\1.DefiningClassesPart1\DefiningClassesPartOne\01.DefineClassMobilePhone\obj\Debug\01.DefineClassMobilePhone.pdb
+D:\Todor\Telerik Software Academy\C# OOP\1.DefiningClassesPart1\DefiningClassesPartOne\01.DefineClassMobilePhone\obj\Debug\01.DefineClassMobilePhone.csprojResolveAssemblyReference.cache
+D:\Todor\Telerik Software Academy\C# OOP\1.DefiningClassesPart1\DefiningClassesPartOne\01.DefineClassMobilePhone\bin\Debug\01.DefineClassMobilePhone.exe
+D:\Todor\Telerik Software Academy\C# OOP\1.DefiningClassesPart1\DefiningClassesPartOne\01.DefineClassMobilePhone\bin\Debug\01.DefineClassMobilePhone.pdb

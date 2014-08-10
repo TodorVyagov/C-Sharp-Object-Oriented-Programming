@@ -1,0 +1,6 @@
+D:\Todor\Telerik Software Academy\C# OOP\4.OOPPrinciplesPart1\4.OOPPrinciplesPart1\03.AnimaHierarchy\bin\Debug\03.AnimaHierarchy.exe.config
+D:\Todor\Telerik Software Academy\C# OOP\4.OOPPrinciplesPart1\4.OOPPrinciplesPart1\03.AnimaHierarchy\bin\Debug\03.AnimaHierarchy.exe
+D:\Todor\Telerik Software Academy\C# OOP\4.OOPPrinciplesPart1\4.OOPPrinciplesPart1\03.AnimaHierarchy\bin\Debug\03.AnimaHierarchy.pdb
+D:\Todor\Telerik Software Academy\C# OOP\4.OOPPrinciplesPart1\4.OOPPrinciplesPart1\03.AnimaHierarchy\obj\Debug\03.AnimaHierarchy.csprojResolveAssemblyReference.cache
+D:\Todor\Telerik Software Academy\C# OOP\4.OOPPrinciplesPart1\4.OOPPrinciplesPart1\03.AnimaHierarchy\obj\Debug\03.AnimaHierarchy.exe
+D:\Todor\Telerik Software Academy\C# OOP\4.OOPPrinciplesPart1\4.OOPPrinciplesPart1\03.AnimaHierarchy\obj\Debug\03.AnimaHierarchy.pdb

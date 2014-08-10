@@ -1,0 +1,6 @@
+D:\Todor\Telerik Software Academy\C# OOP\5.OOPPrinciplesPart2\5.OOPPrinciplesPart2\03.Exception\bin\Debug\03.Exception.exe.config
+D:\Todor\Telerik Software Academy\C# OOP\5.OOPPrinciplesPart2\5.OOPPrinciplesPart2\03.Exception\bin\Debug\03.Exception.exe
+D:\Todor\Telerik Software Academy\C# OOP\5.OOPPrinciplesPart2\5.OOPPrinciplesPart2\03.Exception\bin\Debug\03.Exception.pdb
+D:\Todor\Telerik Software Academy\C# OOP\5.OOPPrinciplesPart2\5.OOPPrinciplesPart2\03.Exception\obj\Debug\03.Exception.csprojResolveAssemblyReference.cache
+D:\Todor\Telerik Software Academy\C# OOP\5.OOPPrinciplesPart2\5.OOPPrinciplesPart2\03.Exception\obj\Debug\03.Exception.exe
+D:\Todor\Telerik Software Academy\C# OOP\5.OOPPrinciplesPart2\5.OOPPrinciplesPart2\03.Exception\obj\Debug\03.Exception.pdb

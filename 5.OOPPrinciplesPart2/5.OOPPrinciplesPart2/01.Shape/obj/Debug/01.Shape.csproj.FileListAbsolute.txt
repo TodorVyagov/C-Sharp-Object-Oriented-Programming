@@ -1,0 +1,6 @@
+D:\Todor\Telerik Software Academy\C# OOP\5.OOPPrinciplesPart2\5.OOPPrinciplesPart2\01.Shape\bin\Debug\01.Shape.exe.config
+D:\Todor\Telerik Software Academy\C# OOP\5.OOPPrinciplesPart2\5.OOPPrinciplesPart2\01.Shape\bin\Debug\01.Shape.exe
+D:\Todor\Telerik Software Academy\C# OOP\5.OOPPrinciplesPart2\5.OOPPrinciplesPart2\01.Shape\bin\Debug\01.Shape.pdb
+D:\Todor\Telerik Software Academy\C# OOP\5.OOPPrinciplesPart2\5.OOPPrinciplesPart2\01.Shape\obj\Debug\01.Shape.csprojResolveAssemblyReference.cache
+D:\Todor\Telerik Software Academy\C# OOP\5.OOPPrinciplesPart2\5.OOPPrinciplesPart2\01.Shape\obj\Debug\01.Shape.exe
+D:\Todor\Telerik Software Academy\C# OOP\5.OOPPrinciplesPart2\5.OOPPrinciplesPart2\01.Shape\obj\Debug\01.Shape.pdb

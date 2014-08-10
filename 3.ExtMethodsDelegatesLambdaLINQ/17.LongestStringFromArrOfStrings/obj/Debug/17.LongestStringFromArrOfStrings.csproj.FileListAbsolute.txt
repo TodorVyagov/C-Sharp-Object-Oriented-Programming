@@ -1,0 +1,6 @@
+D:\Todor\Telerik Software Academy\C# OOP\3.ExtMethodsDelegatesLambdaLINQ\17.LongestStringFromArrOfStrings\bin\Debug\17.LongestStringFromArrOfStrings.exe.config
+D:\Todor\Telerik Software Academy\C# OOP\3.ExtMethodsDelegatesLambdaLINQ\17.LongestStringFromArrOfStrings\bin\Debug\17.LongestStringFromArrOfStrings.exe
+D:\Todor\Telerik Software Academy\C# OOP\3.ExtMethodsDelegatesLambdaLINQ\17.LongestStringFromArrOfStrings\bin\Debug\17.LongestStringFromArrOfStrings.pdb
+D:\Todor\Telerik Software Academy\C# OOP\3.ExtMethodsDelegatesLambdaLINQ\17.LongestStringFromArrOfStrings\obj\Debug\17.LongestStringFromArrOfStrings.exe
+D:\Todor\Telerik Software Academy\C# OOP\3.ExtMethodsDelegatesLambdaLINQ\17.LongestStringFromArrOfStrings\obj\Debug\17.LongestStringFromArrOfStrings.pdb
+D:\Todor\Telerik Software Academy\C# OOP\3.ExtMethodsDelegatesLambdaLINQ\17.LongestStringFromArrOfStrings\obj\Debug\17.LongestStringFromArrOfStrings.csprojResolveAssemblyReference.cache

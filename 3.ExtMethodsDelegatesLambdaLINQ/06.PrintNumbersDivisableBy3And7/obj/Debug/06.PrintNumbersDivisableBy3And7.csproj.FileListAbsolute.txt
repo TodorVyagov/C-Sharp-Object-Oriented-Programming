@@ -1,0 +1,5 @@
+D:\Todor\Telerik Software Academy\C# OOP\3.ExtMethodsDelegatesLambdaLINQ\06.PrintNumbersDivisableBy3And7\bin\Debug\06.PrintNumbersDivisableBy3And7.exe.config
+D:\Todor\Telerik Software Academy\C# OOP\3.ExtMethodsDelegatesLambdaLINQ\06.PrintNumbersDivisableBy3And7\bin\Debug\06.PrintNumbersDivisableBy3And7.exe
+D:\Todor\Telerik Software Academy\C# OOP\3.ExtMethodsDelegatesLambdaLINQ\06.PrintNumbersDivisableBy3And7\bin\Debug\06.PrintNumbersDivisableBy3And7.pdb
+D:\Todor\Telerik Software Academy\C# OOP\3.ExtMethodsDelegatesLambdaLINQ\06.PrintNumbersDivisableBy3And7\obj\Debug\06.PrintNumbersDivisableBy3And7.exe
+D:\Todor\Telerik Software Academy\C# OOP\3.ExtMethodsDelegatesLambdaLINQ\06.PrintNumbersDivisableBy3And7\obj\Debug\06.PrintNumbersDivisableBy3And7.pdb

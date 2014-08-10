@@ -1,0 +1,6 @@
+D:\Todor\Telerik Software Academy\C# OOP\3.ExtMethodsDelegatesLambdaLINQ\07.ClassTimer\bin\Debug\07.ClassTimer.exe.config
+D:\Todor\Telerik Software Academy\C# OOP\3.ExtMethodsDelegatesLambdaLINQ\07.ClassTimer\bin\Debug\07.ClassTimer.exe
+D:\Todor\Telerik Software Academy\C# OOP\3.ExtMethodsDelegatesLambdaLINQ\07.ClassTimer\bin\Debug\07.ClassTimer.pdb
+D:\Todor\Telerik Software Academy\C# OOP\3.ExtMethodsDelegatesLambdaLINQ\07.ClassTimer\obj\Debug\07.ClassTimer.csprojResolveAssemblyReference.cache
+D:\Todor\Telerik Software Academy\C# OOP\3.ExtMethodsDelegatesLambdaLINQ\07.ClassTimer\obj\Debug\07.ClassTimer.exe
+D:\Todor\Telerik Software Academy\C# OOP\3.ExtMethodsDelegatesLambdaLINQ\07.ClassTimer\obj\Debug\07.ClassTimer.pdb

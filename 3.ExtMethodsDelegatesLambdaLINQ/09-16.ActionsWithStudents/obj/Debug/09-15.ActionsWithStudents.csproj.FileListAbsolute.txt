@@ -1,0 +1,2 @@
+D:\Todor\Telerik Software Academy\C# OOP\3.ExtMethodsDelegatesLambdaLINQ\09.ActionsWithStudents\obj\Debug\09.ActionsWithStudents.exe
+D:\Todor\Telerik Software Academy\C# OOP\3.ExtMethodsDelegatesLambdaLINQ\09.ActionsWithStudents\obj\Debug\09.ActionsWithStudents.pdb

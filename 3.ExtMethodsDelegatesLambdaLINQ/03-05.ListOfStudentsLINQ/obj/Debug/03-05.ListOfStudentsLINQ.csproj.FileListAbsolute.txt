@@ -1,0 +1,3 @@
+D:\Todor\Telerik Software Academy\C# OOP\3.ExtMethodsDelegatesLambdaLINQ\03-05.ListOfStudentsLINQ\bin\Debug\03.ListOfStudentsLINQ.exe.config
+D:\Todor\Telerik Software Academy\C# OOP\3.ExtMethodsDelegatesLambdaLINQ\03-05.ListOfStudentsLINQ\obj\Debug\03.ListOfStudentsLINQ.exe
+D:\Todor\Telerik Software Academy\C# OOP\3.ExtMethodsDelegatesLambdaLINQ\03-05.ListOfStudentsLINQ\obj\Debug\03.ListOfStudentsLINQ.pdb

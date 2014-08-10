@@ -1,0 +1,5 @@
+D:\Todor\Telerik Software Academy\C# OOP\3.ExtMethodsDelegatesLambdaLINQ\18-19.ExtractStudentsGroupedByGroupName\bin\Debug\18-19.ExtractStudentsGroupedByGroupName.exe.config
+D:\Todor\Telerik Software Academy\C# OOP\3.ExtMethodsDelegatesLambdaLINQ\18-19.ExtractStudentsGroupedByGroupName\bin\Debug\18-19.ExtractStudentsGroupedByGroupName.exe
+D:\Todor\Telerik Software Academy\C# OOP\3.ExtMethodsDelegatesLambdaLINQ\18-19.ExtractStudentsGroupedByGroupName\bin\Debug\18-19.ExtractStudentsGroupedByGroupName.pdb
+D:\Todor\Telerik Software Academy\C# OOP\3.ExtMethodsDelegatesLambdaLINQ\18-19.ExtractStudentsGroupedByGroupName\obj\Debug\18-19.ExtractStudentsGroupedByGroupName.exe
+D:\Todor\Telerik Software Academy\C# OOP\3.ExtMethodsDelegatesLambdaLINQ\18-19.ExtractStudentsGroupedByGroupName\obj\Debug\18-19.ExtractStudentsGroupedByGroupName.pdb

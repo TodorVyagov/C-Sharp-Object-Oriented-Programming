@@ -1,0 +1,7 @@
+D:\Todor\Telerik Software Academy\C# OOP\3.ExtensionMethodsDelegatesLambdaLINQ\3.ExtensionMethodsDelegatesLambdaLINQ\02.IEnumerableExtensionMethods\bin\Debug\02.IEnumerableExtensionMethods.exe.config
+D:\Todor\Telerik Software Academy\C# OOP\3.ExtMethodsDelegatesLambdaLINQ\02.IEnumerableExtensionMethods\bin\Debug\02.IEnumerableExtensionMethods.exe.config
+D:\Todor\Telerik Software Academy\C# OOP\3.ExtMethodsDelegatesLambdaLINQ\02.IEnumerableExtensionMethods\bin\Debug\02.IEnumerableExtensionMethods.exe
+D:\Todor\Telerik Software Academy\C# OOP\3.ExtMethodsDelegatesLambdaLINQ\02.IEnumerableExtensionMethods\bin\Debug\02.IEnumerableExtensionMethods.pdb
+D:\Todor\Telerik Software Academy\C# OOP\3.ExtMethodsDelegatesLambdaLINQ\02.IEnumerableExtensionMethods\obj\Debug\02.IEnumerableExtensionMethods.csprojResolveAssemblyReference.cache
+D:\Todor\Telerik Software Academy\C# OOP\3.ExtMethodsDelegatesLambdaLINQ\02.IEnumerableExtensionMethods\obj\Debug\02.IEnumerableExtensionMethods.exe
+D:\Todor\Telerik Software Academy\C# OOP\3.ExtMethodsDelegatesLambdaLINQ\02.IEnumerableExtensionMethods\obj\Debug\02.IEnumerableExtensionMethods.pdb

@@ -1,0 +1,5 @@
+D:\Todor\Telerik Software Academy\C# OOP\3.ExtMethodsDelegatesLambdaLINQ\09-16.ActionsWithStudents\obj\Debug\09.ActionsWithStudents.exe
+D:\Todor\Telerik Software Academy\C# OOP\3.ExtMethodsDelegatesLambdaLINQ\09-16.ActionsWithStudents\obj\Debug\09.ActionsWithStudents.pdb
+D:\Todor\Telerik Software Academy\C# OOP\3.ExtMethodsDelegatesLambdaLINQ\09-16.ActionsWithStudents\bin\Debug\09.ActionsWithStudents.exe
+D:\Todor\Telerik Software Academy\C# OOP\3.ExtMethodsDelegatesLambdaLINQ\09-16.ActionsWithStudents\bin\Debug\09.ActionsWithStudents.pdb
+D:\Todor\Telerik Software Academy\C# OOP\3.ExtMethodsDelegatesLambdaLINQ\09-16.ActionsWithStudents\obj\Debug\09-16.ActionsWithStudents.csprojResolveAssemblyReference.cache
